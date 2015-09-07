@@ -3,3 +3,4 @@
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
+This is lab01 by Ed Keen Ruby on Rails Thursday 5:30
